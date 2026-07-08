@@ -40,6 +40,7 @@ This project presents an IoT-enabled vehicle safety system designed to improve r
 - Cloud Data Storage
 - Mobile Application
 - Machine Learning Analytics
+- Real-Time Analytics
 
 ## Author
 
