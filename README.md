@@ -34,9 +34,17 @@ This project presents an IoT-enabled vehicle safety system designed to improve r
 - Send accident location via GSM and GPS.
 - Improve overall vehicle safety.
 
-## Future Improvements
+ ## Future Improvements
 
 - AI-based Driver Monitoring
 - Cloud Data Storage
 - Mobile Application
 - Machine Learning Analytics
+
+## Author
+
+S. M. Naeem Shah
+Telecommunication Engineer
+IoT Research Enthusiast
+
+
