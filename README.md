@@ -44,7 +44,9 @@ This project presents an IoT-enabled vehicle safety system designed to improve r
 ## Author
 
 S. M. Naeem Shah
+
 Telecommunication Engineer
+
 IoT Research Enthusiast
 
 
